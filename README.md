@@ -1,2 +1,0 @@
-# oracle
-DB Learning material
